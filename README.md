@@ -1,5 +1,10 @@
 ### Hi there 👋
 My name is Tyler Sullivan and I'm a Full-Stack Software & Cloud engineer from Chicago.
+
+# Projects
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tylersul)](https://github.com/tylersul/github-readme-stats)
+
+[![ReadMe Card](https://github-readme-stats-tylersul.vercel.app/api/pin/?username=tylersul&repo=express-cyclone-analytics-web-app&title_color=fff&text_color=fff&bg_color=30373C&border_color=ffffff)](https://github.com/tylersul/express-cyclone-analytics-web-app)
 <!--
 **tylersul/tylersul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
