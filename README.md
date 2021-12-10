@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+My name is Tyler Sullivan and I'm a full-stack software & cloud engineer from Chicago
 <!--
 **tylersul/tylersul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
